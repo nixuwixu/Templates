@@ -1,0 +1,2 @@
+# Templates
+Frontend templates
